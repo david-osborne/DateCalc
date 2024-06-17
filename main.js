@@ -1,4 +1,4 @@
-//added a comment for Git push test
+//added a comment for Git push test, but modified
 //initial date set
 var date = new Date(Date.now());
 var yearSet = date.getFullYear();
